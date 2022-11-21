@@ -8,6 +8,7 @@
 # then ...
 #
 # git clone https://github.com/lily-liu-17/dotfiles.git
+# cd ./dotfiles && sh ./setup.sh
 #
 # update and upgrade system
 
